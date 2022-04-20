@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincejferrante
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python and github
+- 🌱 I’m currently learning python, javascript, web development, and github
 - 💞️ I’m looking to collaborate on learning new things as I figure out github.
 
 <!---
